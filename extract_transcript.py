@@ -62,6 +62,31 @@ def to_srt(segments: list[dict]) -> str:
     return "\n".join(blocks)
 
 
+def to_paragraphs(segments: list[dict], sentences_per_paragraph: int = 4) -> str:
+    """Join caption chunks into full sentences grouped into paragraphs.
+
+    The raw segments break a sentence across several lines (because each line
+    is just a caption frame). We stitch them back into continuous prose,
+    rebuild sentences on terminal punctuation, then group sentences into
+    readable paragraphs.
+    """
+    # 1. Stitch every chunk into one continuous string.
+    joined = " ".join(seg["text"].replace("\n", " ") for seg in segments)
+    joined = re.sub(r"\s+", " ", joined).strip()
+
+    # 2. Split into sentences, keeping the terminal punctuation (. ! ?).
+    #    The lookbehind splits *after* the punctuation + following space.
+    sentences = re.split(r"(?<=[.!?])\s+", joined)
+    sentences = [s.strip() for s in sentences if s.strip()]
+
+    # 3. Group sentences into paragraphs.
+    paragraphs = [
+        " ".join(sentences[i : i + sentences_per_paragraph])
+        for i in range(0, len(sentences), sentences_per_paragraph)
+    ]
+    return "\n\n".join(paragraphs)
+
+
 def fetch_segments(video_id: str, languages: list[str]) -> list[dict]:
     """Fetch transcript segments, preferring the requested languages.
 
@@ -107,6 +132,12 @@ def main() -> int:
         "--output",
         help="Output filename stem (default: the video id)",
     )
+    parser.add_argument(
+        "--sentences-per-paragraph",
+        type=int,
+        default=4,
+        help="Sentences per paragraph in the readable .paragraphs.txt (default: 4)",
+    )
     args = parser.parse_args()
 
     try:
@@ -137,13 +168,17 @@ def main() -> int:
     base.with_suffix(".json").write_text(
         json.dumps(segments, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+    paragraphs = to_paragraphs(segments, args.sentences_per_paragraph)
+    paragraphs_path = base.with_name(base.name + ".paragraphs.txt")
+    paragraphs_path.write_text(paragraphs, encoding="utf-8")
 
     word_count = sum(len(seg["text"].split()) for seg in segments)
     print(
         f"Done: {len(segments)} segments, ~{word_count} words.\n"
         f"  {base.with_suffix('.txt')}\n"
         f"  {base.with_suffix('.srt')}\n"
-        f"  {base.with_suffix('.json')}"
+        f"  {base.with_suffix('.json')}\n"
+        f"  {paragraphs_path}"
     )
     return 0
 

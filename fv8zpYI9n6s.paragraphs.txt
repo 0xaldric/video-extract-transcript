@@ -1,0 +1,107 @@
+So, recently we're seeing a lot more layoffs in big tech companies. Amazon just laid off 16,000 of them and they're going to cut 14,000 more. And then we also see Meta is planning to cut 20% of the company, which is the biggest number I've ever seen from Meta. So, I know people are concerned, especially with the narrative that AI is taking all of our jobs and that these layoffs are the results of that.
+
+I think that's partly true. AI does accelerate the natural cycle of layoffs, but I I don't think it tells the full story. You know, I personally think that layoffs are inevitable in any competitive industry and tech is just a very, very competitive industry. I personally think that we are all responsible in some ways for the layoffs and there was nothing we can do to stop it.
+
+It might sound counterintuitive, but I I think the reason why we have layoffs is because everyone involved is making the most optimal, rational decisions. Everyone played their hand perfectly, which unfortunately resulted in layoffs. The executive team is not dumb for over hiring. Managers are not dumb for mismanaging their teams.
+
+Nobody's dumb, even though it ends up being a bad outcome for a lot of people. But the funny thing is, if they had a chance to do it all over again, I think they'd do it all over again in the same exact way and layoffs will happen. Now, I know a lot of you are thinking about how to protect yourself from layoffs, which which I will get to. But before that, let me tell you how to protect yourself from bad actors on the internet because today's sponsor is my favorite, NordVPN.
+
+Now, I always make sure to keep a habit of using a VPN, especially when I'm traveling and I have no idea who controls these Wi-Fi spots. With NordVPN, it's pretty easy because of how seamless it is. Not only does it protect me, but it also helps me change regions super quickly. For example, if I'm in Canada at my parents' place, some TV shows just aren't available there.
+
+But, I can VPN back into the US and watch them. Or, just today, I wanted to browse some Japanese Fender guitars. I know, I play guitar. But, the website kept bringing me back to the American website.
+
+So, luckily, I was able to use NordVPN to change my region to Japan and visit the Fender Japan website, so I can fantasize about the guitar I want to buy. But, NordVPN isn't just about switching regions. I always keep threat protection pro turned on. It can detect phishing website, and then it blocks them before I even do anything.
+
+You know, it works in the background even when you're not connected to a VPN server. So, your device stays shielded 24/7. So, stay safe. Go to nordvpn.com/joma2 to get a huge discount with the 30-day money-back guarantee.
+
+All right. So, as I was saying, everyone's making the most optimal, rational decision here. It It's kind of like a prisoner's dilemma, but with thousands of players. And because everyone is rational, we're in this like deadlock that guarantees layoffs.
+
+So, here's the high-level summary, and I'll go deeper in it into each later. So, first, companies have competition. They have to win over customers. And the only way to expand their business is to hire more people to work at the company.
+
+Since it's competitive, they have to hire fast, faster than their competitors. And since they need to hire fast, the only way to do it is to lower the bar of hiring. You can't wait for top top talent. You just need people to execute.
+
+So, you bring in what I call the career arbitrageurs, right? People whose incentives are mostly money. But, they're still useful to grow the company. Now, because the company is big and public, your work at the company doesn't really influence the success of the company.
+
+So, even if you get paid in equity, it it doesn't really mean much, right? You're there to clock in and clock out and try to survive another day. And because of that, there's lower incentive for an employee to go above and beyond and take risks for the company. The expected value of doing the best work for the company is often lower than if you would just do moves that make you look good or that makes you survive.
+
+For example, they optimize for stability and creating an environment where they can last a long time at the company. The talent pool is also diluted because of fast hiring. So, now the company has to compensate by having like bureaucracy, babysitters, managers, performance reviews, goal setting, all of these mechanisms to try to incentivize employees to do the right thing for the company. But, that creates a lot of bloat.
+
+At some point, there are so many actors within the company who work more on creating smokes and mirrors to deflect attention to them or to exaggerate the impact of their team rather than just actually doing the work that furthers the company along. The company then wonders, "Why is the output so low even with so many people?" There's a lot of complex organizational cobwebs that makes it extremely hard to know which ones are actually the lazy actors and which ones are the liars that are forming paychecks versus the ones who are actually doing the work, who are actually furthering the company. So, you need to reset by laying off a lot of people, unfortunately. Layoffs have a lot of false positive.
+
+A lot of good people get laid off because it will take a lot more money and time to individually surgically go figure out who's bad, who's good. It's easier to do just one sweep and then maybe rehire the ones that they made a mistake on. For example, if you had a bunch of cables on your computer, right, and some were redundant, some were useless, it might be easier to just unplug all the cables and then figure out which cables are necessary and then reconnect the ones that are needed instead of tracing each cable one by one in in cobweb of a mess and then trying to figure out which ones are useful. That's just inefficient.
+
+It's the same exact thing. You would have done the same thing. So, I want to expand on this part. So, no matter what, companies need to hire fast if they want to be competitive.
+
+But, you might bring up like Netflix, right? They're known to hire extremely high performers to increase their talent density, so you don't need to babysit them. They're all about removing control, and then let them be independent so they can do the best work and make the best decisions. But, to find these high performers, it takes a lot of time.
+
+Even if you're paying top dollars, which Netflix does, it takes a lot of time to find those diamond in the rough. And it only worked for Netflix because it literally had no competitors almost back then. They were literally the only legit streaming service out there. That was before like HBO and everything.
+
+For example, if you had competitors, it's grow or die. If you had the choice to make a profit of $200,000 or $150,000, which one would you pick? You'd probably pick the $200,000, right? Even if the ROI is technically lower because you had to spend 400k to earn 600k, which is a 1.5 extra turn.
+
+Instead of the second example, where you had to spend $150,000 and earn $300,000. But, in a world of competition, if you don't grow as fast as your peers, it doesn't matter how well-written your app is or how high your talent density is at your company. When you're losing market share to competitor who's hiring way faster and expanding way faster than you, it doesn't matter. You just want to get stuff done, so you're going to hire more people to get more output even though it's less efficient because the talent density is lower.
+
+And that's exactly what happened during COVID. Amazon and Meta doubled their head count in 3 years because there was suddenly so many more potential customers. People were at home using tech products, and to satisfy that demand and exploit it, you got to hire engineers to build all those features and to scale. And if you don't, you lose your market share.
+
+You know, they'll either scroll on Facebook instead of YouTube or they'll use Microsoft Azure instead of AWS. So, then the hiring bar lowers, as I said, and then shitty talent comes in and then that's where I come in, right? I'm an opportunist. All I see is high pay, nice perks, and seemingly easy job.
+
+Someone like me who's in college will optimize for this path to get into one of the companies that are over hiring. Since I think that the money they're paying is the highest I can get with my limited skill set. I am making the optimal move for myself, given that I don't care about what I work on. These are the people who would have gone into investment banking in the '90s, consulting in the 2000s, and now in tech.
+
+They are very competent, very rational, but most importantly, they have zero passion for anything. They optimize for something quantifiable only, for money. So, let me ask you a question. Would you still be working in tech if it paid like If your answer is no, then you are probably this person.
+
+You are part of the diluted talent pool. No shame in that. You know, we might not start companies, but we help billionaires grow their existing companies, which is still an important role. Now, when a company is small, the incentive structure is super simple.
+
+For example, let's say it's only founders. All founders of the company want the company to succeed because their future payout is literally tied to the company's success. So, decision-making is very easy. They're already aligned in doing what's best for the company because if the company succeeds, they succeed.
+
+But as the company gets bigger, though, and it's filled with arbitrageurs who are more motivated by their self-interest, which again, which is very rational and the optimal move to make, what you get is misaligned incentives. The work that you do will most likely have very little to do with whether a company succeeds or not. It's like voting. Yes, you have an impact, but if you did poorly at your job, it's not like it will blow the whole thing over.
+
+For you to truly do a good job, to pick truly important projects for the company, that might be a drop in the bucket for the next earning calls, right? But that will require you three times more effort, which might yield you a I don't know 15% bigger bonus, assuming that you did a good year that year. So how is that worth it? The incentive for the employee would be to figure out how to maximize your pay while minimizing your effort, and not how to improve the company.
+
+Sometimes these two things are not aligned. For example, some workers want to get promoted as fast as possible. Maybe they even cut corners doing so, so that they can collect a bigger paycheck. And then the work you choose isn't always what's best for the company, but it's the best for promotions if you play the game right.
+
+And that's a very valid strategy. Or some workers might choose to cruise and minimize the effort, stay at the same level, and just collect paychecks. That's also a valid strategy. Now this isn't limited to individual contributors.
+
+It's especially true for managers and directors. You can exaggerate how complicated your scope is or how important your team is to the company if you're good at lying. And that protects your whole team. The fact is that the company doesn't have a full picture because the company's just too big.
+
+So they rely on proxies like performance review, team size, organizational structure, peer feedback, documentation about who got credit for what work. Every one of these measurable proxies can be cheated though. And employees will find the path of least resistance to cheat them and to get what they want. Whether that's keeping their job or getting a promo or a raise or making their team big or or taking on projects that seem a lot more important so that you can get a bigger paycheck.
+
+The path of least resistance is rarely the path that helps the company the most, unfortunately. If everyone was a high performer, actually not even high performer, a principal performer, and worked like a hive mind, and every employee is aligned, companies wouldn't even need to fire people or have performance reviews. These things that bloat companies like bureaucracy, goal setting, performance evaluation, bonuses are all necessary to steer the company slightly more in the right direction, even though that these processes slows things down. You rather be going slow than going backwards, right?
+
+So again, employees are completely rational in performing at work in a way that optimizes their payout instead of the company's interest. And the company is also completely rational in setting up all these processes and management layers. And finally, you press the reset button, and you start shaving off the diseased, right? Those are layoffs.
+
+The teams that are completely useless, the low performers, and the leeches, we're trying to get rid of that. You can't be surgical about it, so you just have to do a broad stroke. It's like if a city is infected with zombies, even if there's some people living in there, unfortunately, they're just going to bomb the whole place. That's that's the safest thing to do.
+
+All right, so I guess what I'm trying to say is there's no bad actor in this whole layoff saga. Everyone played their cards exactly right. I guess if you're concerned about the layoffs, there's a few things you can do to avoid the bomb. There's two types of adjustments you can make.
+
+You can do both. But the left side, I call them the principal macro adjustments. These are the adjustments that make your true ROI, your return on investment as an employee, higher. You can do that by getting paid less.
+
+If you're not overpriced, people are less likely going to look at you to fire you. The most overpriced employees are usually the ones who force themselves into a promo, even though they're not executing at that level. They're usually nervous, burnt out all the time, and they usually optimize on promos rather than developing their skills. So, think twice before you ask for a promotion.
+
+You can also go to a company that pays less, and more likely than not you'd be very high performer there since the pool isn't as competitive and you'll survive. So, next is when you're selecting a team, make sure you choose a team that's a high priority for the company. For example, ads, AWS, monetization, any of those kind of teams, they're not likely going anywhere because it's obvious that they make profit for the company. Even if you're extremely good or you're very, very impactful within your team, but if your team is experimental and doesn't actually make money for the company, your true ROI might still be low.
+
+It has nothing to do with you, and you're very, very competent, and you deliver on all the work, but the work is just not that useful for the company. So, technically, your true ROI is still pretty low. Okay. So, the downside of choosing those high ROI teams, though, is that they're usually very well established and they're not fun.
+
+And because they're very well established, the direction that they need to go is very clear. So, the leads know exactly how much juice to juice out of you. That's why whenever you join a new company, you always hear like, "Oh man, don't join the monetization team. Don't join the cloud computing team.
+
+Oh my god, the work is so hard over there." Or like they make you work 24/7 and stuff like that. That's probably why because they have a very clear direction on where to go, and they know exactly how to extract that out of you. So, the last one is increase your impact. Be someone who can identify what is impactful work and then do that work.
+
+I also added use AI right now because the only way to have an outsize impact is to increase your output. And currently, if you're not using AI to write code or to do your job, you might get out-competed by someone who does. It's similar to if calculators existed, but you're still calculating things by hand. It just makes no sense.
+
+All right. So, then on the other side of this spectrum, there are tactical micro-adjustments. These don't actually change anything about you. You're not getting any better, and your ROI stays the same.
+
+But, you can make these optical illusions to make you seem better than you are. And these are a lot easier to pull off. So, the first one is choose a manager that likes you. In the end, the company needs input to figure out who to lay off, right?
+
+Figure out where those inputs come from. Usually, it's from your manager. Unless they're getting fired. But, make sure that you're on the good side of the people who make these decisions or who give input into the company to figure out who to fire.
+
+Next, when you work on projects, make sure you over-communicate. And also over-exaggerate how difficult your projects are and how impactful your projects are. Make a lot of noise. Just be seen.
+
+That creates an illusion that you are valuable. I personally hate that, but that's just how the world works. And if everyone else does it, you have to do it, too. Like, if the tree falls down, but no one's there to hear it.
+
+Did it really fall down or or something like that? You know what I mean. And then the last one is try to figure out what vanity metrics are important for your company. Like, a toy example, like let's say there's a shitty fictional company.
+
+They might look at the number of lines of code you've written or the number of pull requests you merge. And they'll use that as a proxy of how productive you are. And if you know that, optimize for that. Create smaller pull requests, write bloated code.
+
+Currently at my company, I have a feeling they're looking at how much you use AI because most company believes that if you're using AI, you're way more productive. So, if you don't jump on the trend, you're going to fall behind. So, they're probably looking at your AI usage. So, what you can do is every morning just ask a lot of questions to AI even if you don't have any questions, or just write a lot of code using AI.
+
+Okay, so here's the catch. When too many people start making these tactical micro-adjustments, well, that's actually a big reason why there's layoffs. It's because people optimize too much on the optics and about how to survive another year at the company instead of actually doing the real work that makes you better and increase your output like on the macro-adjustments. And that's why companies can't tell apart someone who truly has a high ROI versus someone who is creating all these smokes and mirrors to make them seem like they are high ROI.
+
+And that is why they need layoffs so that they can reset. All right, that's pretty much what I'll talk about today and I'll see you next time.

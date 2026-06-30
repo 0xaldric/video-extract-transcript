@@ -33,11 +33,14 @@ python extract_transcript.py fv8zpYI9n6s --output my_transcript
 For each run, three files are written next to the script (named after the
 video id, or the `--output` stem):
 
-| File         | Description                                   |
-|--------------|-----------------------------------------------|
-| `<id>.txt`   | Plain text, one line per caption segment      |
-| `<id>.srt`   | SubRip subtitles with timestamps              |
-| `<id>.json`  | Raw segments (`text`, `start`, `duration`)    |
+| File                   | Description                                              |
+|------------------------|---------------------------------------------------------|
+| `<id>.paragraphs.txt`  | **Readable prose** — chunks rejoined into full sentences and grouped into paragraphs |
+| `<id>.txt`             | Plain text, one line per caption segment                |
+| `<id>.srt`             | SubRip subtitles with timestamps                        |
+| `<id>.json`            | Raw segments (`text`, `start`, `duration`)              |
+
+Tune paragraph length with `--sentences-per-paragraph N` (default: 4).
 
 ## Example
 
