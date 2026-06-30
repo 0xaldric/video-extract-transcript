@@ -19,6 +19,9 @@ classifiers = [
 ]
 dependencies = ["youtube-transcript-api>=1.2.0"]
 
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
 [project.urls]
 Homepage = "https://github.com/0xaldric/video-extract-transcript"
 Repository = "https://github.com/0xaldric/video-extract-transcript"

@@ -1,5 +1,7 @@
 # yt-transcript
 
+[![CI](https://github.com/0xaldric/video-extract-transcript/actions/workflows/ci.yml/badge.svg)](https://github.com/0xaldric/video-extract-transcript/actions/workflows/ci.yml)
+
 A small, cross-platform command-line tool to extract the full transcript from
 any YouTube video — as readable paragraphs, plain text, `.srt` subtitles, and
 JSON. Pure Python, no API key required. Runs the same on **macOS**, **Windows**,
