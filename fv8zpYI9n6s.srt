@@ -1,0 +1,2103 @@
+1
+00:00:00,000 --> 00:00:03,760
+So, recently we're seeing a lot more
+
+2
+00:00:01,640 --> 00:00:06,080
+layoffs in big tech companies. Amazon
+
+3
+00:00:03,760 --> 00:00:08,400
+just laid off 16,000 of them and they're
+
+4
+00:00:06,080 --> 00:00:11,280
+going to cut 14,000 more.
+
+5
+00:00:08,400 --> 00:00:13,680
+And then we also see Meta is planning to
+
+6
+00:00:11,280 --> 00:00:16,080
+cut 20% of the company, which is the
+
+7
+00:00:13,680 --> 00:00:17,760
+biggest number I've ever seen from Meta.
+
+8
+00:00:16,080 --> 00:00:20,160
+So, I know people are concerned,
+
+9
+00:00:17,760 --> 00:00:22,040
+especially with the narrative that AI is
+
+10
+00:00:20,160 --> 00:00:24,240
+taking all of our jobs and that these
+
+11
+00:00:22,040 --> 00:00:26,560
+layoffs are the results of that.
+
+12
+00:00:24,240 --> 00:00:29,520
+I think that's partly true. AI does
+
+13
+00:00:26,560 --> 00:00:31,360
+accelerate the natural cycle of layoffs,
+
+14
+00:00:29,520 --> 00:00:33,560
+but I I don't think it tells the full
+
+15
+00:00:31,360 --> 00:00:36,040
+story. You know, I personally think that
+
+16
+00:00:33,560 --> 00:00:38,200
+layoffs are inevitable in any
+
+17
+00:00:36,040 --> 00:00:40,440
+competitive industry and tech is just a
+
+18
+00:00:38,200 --> 00:00:41,920
+very, very competitive industry. I
+
+19
+00:00:40,440 --> 00:00:45,120
+personally think that we are all
+
+20
+00:00:41,920 --> 00:00:47,280
+responsible in some ways for the layoffs
+
+21
+00:00:45,120 --> 00:00:48,320
+and there was nothing we can do to stop
+
+22
+00:00:47,280 --> 00:00:50,280
+it.
+
+23
+00:00:48,320 --> 00:00:53,480
+It might sound counterintuitive, but I I
+
+24
+00:00:50,280 --> 00:00:56,400
+think the reason why we have layoffs is
+
+25
+00:00:53,480 --> 00:00:59,480
+because everyone involved is making the
+
+26
+00:00:56,400 --> 00:01:01,160
+most optimal, rational decisions.
+
+27
+00:00:59,480 --> 00:01:04,040
+Everyone played their hand perfectly,
+
+28
+00:01:01,160 --> 00:01:06,280
+which unfortunately resulted in layoffs.
+
+29
+00:01:04,040 --> 00:01:08,840
+The executive team is not dumb for over
+
+30
+00:01:06,280 --> 00:01:11,600
+hiring. Managers are not dumb for
+
+31
+00:01:08,840 --> 00:01:13,280
+mismanaging their teams. Nobody's dumb,
+
+32
+00:01:11,600 --> 00:01:15,880
+even though it ends up being a bad
+
+33
+00:01:13,280 --> 00:01:17,880
+outcome for a lot of people.
+
+34
+00:01:15,880 --> 00:01:20,280
+But the funny thing is, if they had a
+
+35
+00:01:17,880 --> 00:01:22,480
+chance to do it all over again,
+
+36
+00:01:20,280 --> 00:01:24,520
+I think they'd do it all over again in
+
+37
+00:01:22,480 --> 00:01:26,200
+the same exact way and layoffs will
+
+38
+00:01:24,520 --> 00:01:27,680
+happen. Now, I know a lot of you are
+
+39
+00:01:26,200 --> 00:01:30,280
+thinking about how to protect yourself
+
+40
+00:01:27,680 --> 00:01:32,000
+from layoffs, which which I will get to.
+
+41
+00:01:30,280 --> 00:01:33,800
+But before that, let me tell you how to
+
+42
+00:01:32,000 --> 00:01:35,680
+protect yourself from bad actors on the
+
+43
+00:01:33,800 --> 00:01:38,560
+internet because today's sponsor is my
+
+44
+00:01:35,680 --> 00:01:41,320
+favorite, NordVPN. Now, I always make
+
+45
+00:01:38,560 --> 00:01:43,120
+sure to keep a habit of using a VPN,
+
+46
+00:01:41,320 --> 00:01:45,920
+especially when I'm traveling and I have
+
+47
+00:01:43,120 --> 00:01:47,560
+no idea who controls these Wi-Fi spots.
+
+48
+00:01:45,920 --> 00:01:49,760
+With NordVPN, it's pretty easy because
+
+49
+00:01:47,560 --> 00:01:52,280
+of how seamless it is. Not only does it
+
+50
+00:01:49,760 --> 00:01:54,680
+protect me, but it also helps me change
+
+51
+00:01:52,280 --> 00:01:56,960
+regions super quickly. For example, if
+
+52
+00:01:54,680 --> 00:01:59,080
+I'm in Canada at my parents' place, some
+
+53
+00:01:56,960 --> 00:02:01,560
+TV shows just aren't available there.
+
+54
+00:01:59,080 --> 00:02:03,680
+But, I can VPN back into the US and
+
+55
+00:02:01,560 --> 00:02:06,280
+watch them. Or, just today, I wanted to
+
+56
+00:02:03,680 --> 00:02:08,360
+browse some Japanese Fender guitars. I
+
+57
+00:02:06,280 --> 00:02:09,759
+know, I play guitar. But, the website
+
+58
+00:02:08,360 --> 00:02:11,760
+kept bringing me back to the American
+
+59
+00:02:09,759 --> 00:02:14,760
+website. So, luckily, I was able to use
+
+60
+00:02:11,760 --> 00:02:17,000
+NordVPN to change my region to Japan and
+
+61
+00:02:14,760 --> 00:02:18,840
+visit the Fender Japan website, so I can
+
+62
+00:02:17,000 --> 00:02:20,920
+fantasize about the guitar I want to
+
+63
+00:02:18,840 --> 00:02:22,840
+buy. But, NordVPN isn't just about
+
+64
+00:02:20,920 --> 00:02:25,040
+switching regions. I always keep threat
+
+65
+00:02:22,840 --> 00:02:26,640
+protection pro turned on. It can detect
+
+66
+00:02:25,040 --> 00:02:28,520
+phishing website, and then it blocks
+
+67
+00:02:26,640 --> 00:02:29,920
+them before I even do anything. You
+
+68
+00:02:28,520 --> 00:02:31,200
+know, it works in the background even
+
+69
+00:02:29,920 --> 00:02:33,720
+when you're not connected to a VPN
+
+70
+00:02:31,200 --> 00:02:34,959
+server. So, your device stays shielded
+
+71
+00:02:33,720 --> 00:02:39,000
+24/7.
+
+72
+00:02:34,959 --> 00:02:41,440
+So, stay safe. Go to nordvpn.com/joma2
+
+73
+00:02:39,000 --> 00:02:43,640
+to get a huge discount with the 30-day
+
+74
+00:02:41,440 --> 00:02:45,680
+money-back guarantee. All right. So, as
+
+75
+00:02:43,640 --> 00:02:48,320
+I was saying, everyone's making the most
+
+76
+00:02:45,680 --> 00:02:50,520
+optimal, rational decision here. It It's
+
+77
+00:02:48,320 --> 00:02:52,840
+kind of like a prisoner's dilemma, but
+
+78
+00:02:50,520 --> 00:02:54,720
+with thousands of players. And because
+
+79
+00:02:52,840 --> 00:02:57,480
+everyone is rational, we're in this like
+
+80
+00:02:54,720 --> 00:02:58,920
+deadlock that guarantees layoffs. So,
+
+81
+00:02:57,480 --> 00:03:01,760
+here's the high-level summary, and I'll
+
+82
+00:02:58,920 --> 00:03:03,160
+go deeper in it into each later.
+
+83
+00:03:01,760 --> 00:03:05,519
+So, first,
+
+84
+00:03:03,160 --> 00:03:07,519
+companies have competition.
+
+85
+00:03:05,519 --> 00:03:09,440
+They have to win over customers. And the
+
+86
+00:03:07,519 --> 00:03:11,959
+only way to expand their business is to
+
+87
+00:03:09,440 --> 00:03:13,480
+hire more people to work at the company.
+
+88
+00:03:11,959 --> 00:03:15,360
+Since it's competitive, they have to
+
+89
+00:03:13,480 --> 00:03:17,239
+hire fast, faster than their
+
+90
+00:03:15,360 --> 00:03:20,080
+competitors. And since they need to hire
+
+91
+00:03:17,239 --> 00:03:22,200
+fast, the only way to do it is to lower
+
+92
+00:03:20,080 --> 00:03:24,480
+the bar of hiring. You can't wait for
+
+93
+00:03:22,200 --> 00:03:26,840
+top top talent. You just need people to
+
+94
+00:03:24,480 --> 00:03:29,880
+execute. So, you bring in what I call
+
+95
+00:03:26,840 --> 00:03:32,720
+the career arbitrageurs, right? People
+
+96
+00:03:29,880 --> 00:03:33,920
+whose incentives are mostly money. But,
+
+97
+00:03:32,720 --> 00:03:36,840
+they're still useful to grow the
+
+98
+00:03:33,920 --> 00:03:39,640
+company. Now, because the company is big
+
+99
+00:03:36,840 --> 00:03:41,519
+and public, your work at the company
+
+100
+00:03:39,640 --> 00:03:43,640
+doesn't really influence the success of
+
+101
+00:03:41,519 --> 00:03:46,000
+the company. So, even if you get paid in
+
+102
+00:03:43,640 --> 00:03:47,560
+equity, it it doesn't really mean much,
+
+103
+00:03:46,000 --> 00:03:49,440
+right? You're there to clock in and
+
+104
+00:03:47,560 --> 00:03:50,280
+clock out and try to survive another
+
+105
+00:03:49,440 --> 00:03:51,480
+day.
+
+106
+00:03:50,280 --> 00:03:53,960
+And because of that, there's lower
+
+107
+00:03:51,480 --> 00:03:55,160
+incentive for an employee to go above
+
+108
+00:03:53,960 --> 00:03:58,080
+and beyond and take risks for the
+
+109
+00:03:55,160 --> 00:04:01,440
+company. The expected value of doing the
+
+110
+00:03:58,080 --> 00:04:03,680
+best work for the company is often lower
+
+111
+00:04:01,440 --> 00:04:05,520
+than if you would just do moves that
+
+112
+00:04:03,680 --> 00:04:07,920
+make you look good or that makes you
+
+113
+00:04:05,520 --> 00:04:10,360
+survive. For example, they optimize for
+
+114
+00:04:07,920 --> 00:04:12,160
+stability and creating an environment
+
+115
+00:04:10,360 --> 00:04:13,400
+where they can last a long time at the
+
+116
+00:04:12,160 --> 00:04:15,320
+company.
+
+117
+00:04:13,400 --> 00:04:17,200
+The talent pool is also diluted because
+
+118
+00:04:15,320 --> 00:04:19,160
+of fast hiring. So, now the company has
+
+119
+00:04:17,200 --> 00:04:22,280
+to compensate by having like
+
+120
+00:04:19,160 --> 00:04:24,560
+bureaucracy, babysitters, managers,
+
+121
+00:04:22,280 --> 00:04:26,280
+performance reviews, goal setting, all
+
+122
+00:04:24,560 --> 00:04:28,440
+of these mechanisms to try to
+
+123
+00:04:26,280 --> 00:04:30,240
+incentivize employees to do the right
+
+124
+00:04:28,440 --> 00:04:32,280
+thing for the company. But, that creates
+
+125
+00:04:30,240 --> 00:04:34,800
+a lot of bloat. At some point, there are
+
+126
+00:04:32,280 --> 00:04:37,320
+so many actors within the company who
+
+127
+00:04:34,800 --> 00:04:39,560
+work more on creating smokes and mirrors
+
+128
+00:04:37,320 --> 00:04:41,720
+to deflect attention to them or to
+
+129
+00:04:39,560 --> 00:04:44,080
+exaggerate the impact of their team
+
+130
+00:04:41,720 --> 00:04:46,120
+rather than just actually doing the work
+
+131
+00:04:44,080 --> 00:04:48,640
+that furthers the company along. The
+
+132
+00:04:46,120 --> 00:04:52,000
+company then wonders, "Why is the output
+
+133
+00:04:48,640 --> 00:04:55,160
+so low even with so many people?"
+
+134
+00:04:52,000 --> 00:04:56,440
+There's a lot of complex organizational
+
+135
+00:04:55,160 --> 00:04:58,440
+cobwebs
+
+136
+00:04:56,440 --> 00:05:00,600
+that makes it extremely hard to know
+
+137
+00:04:58,440 --> 00:05:02,360
+which ones are actually the lazy actors
+
+138
+00:05:00,600 --> 00:05:04,520
+and which ones are the liars that are
+
+139
+00:05:02,360 --> 00:05:06,080
+forming paychecks versus the ones who
+
+140
+00:05:04,520 --> 00:05:08,080
+are actually doing the work, who are
+
+141
+00:05:06,080 --> 00:05:10,640
+actually furthering the company.
+
+142
+00:05:08,080 --> 00:05:12,960
+So, you need to reset by laying off a
+
+143
+00:05:10,640 --> 00:05:15,080
+lot of people, unfortunately. Layoffs
+
+144
+00:05:12,960 --> 00:05:17,040
+have a lot of false positive. A lot of
+
+145
+00:05:15,080 --> 00:05:20,160
+good people get laid off because it will
+
+146
+00:05:17,040 --> 00:05:22,760
+take a lot more money and time to
+
+147
+00:05:20,160 --> 00:05:25,040
+individually surgically go figure out
+
+148
+00:05:22,760 --> 00:05:27,360
+who's bad, who's good. It's easier to do
+
+149
+00:05:25,040 --> 00:05:29,400
+just one sweep and then maybe rehire the
+
+150
+00:05:27,360 --> 00:05:30,520
+ones that they made a mistake on.
+
+151
+00:05:29,400 --> 00:05:32,960
+For example, if you had a bunch of
+
+152
+00:05:30,520 --> 00:05:35,240
+cables on your computer, right, and some
+
+153
+00:05:32,960 --> 00:05:36,880
+were redundant, some were useless,
+
+154
+00:05:35,240 --> 00:05:38,080
+it might be easier to just unplug all
+
+155
+00:05:36,880 --> 00:05:39,760
+the cables
+
+156
+00:05:38,080 --> 00:05:41,280
+and then figure out which cables are
+
+157
+00:05:39,760 --> 00:05:43,480
+necessary and then reconnect the ones
+
+158
+00:05:41,280 --> 00:05:46,560
+that are needed instead of tracing each
+
+159
+00:05:43,480 --> 00:05:47,840
+cable one by one in in cobweb of a mess
+
+160
+00:05:46,560 --> 00:05:49,720
+and then trying to figure out which ones
+
+161
+00:05:47,840 --> 00:05:51,200
+are useful. That's just inefficient.
+
+162
+00:05:49,720 --> 00:05:52,640
+It's the same exact thing. You would
+
+163
+00:05:51,200 --> 00:05:55,000
+have done the same thing. So, I want to
+
+164
+00:05:52,640 --> 00:05:56,600
+expand on this part.
+
+165
+00:05:55,000 --> 00:05:58,040
+So, no matter what, companies need to
+
+166
+00:05:56,600 --> 00:06:00,000
+hire fast if they want to be
+
+167
+00:05:58,040 --> 00:06:02,000
+competitive. But, you might bring up
+
+168
+00:06:00,000 --> 00:06:04,200
+like Netflix, right? They're known to
+
+169
+00:06:02,000 --> 00:06:06,360
+hire extremely high performers to
+
+170
+00:06:04,200 --> 00:06:08,200
+increase their talent density, so you
+
+171
+00:06:06,360 --> 00:06:11,160
+don't need to babysit them. They're all
+
+172
+00:06:08,200 --> 00:06:12,760
+about removing control,
+
+173
+00:06:11,160 --> 00:06:14,360
+and then let them be independent so they
+
+174
+00:06:12,760 --> 00:06:15,560
+can do the best work and make the best
+
+175
+00:06:14,360 --> 00:06:18,520
+decisions.
+
+176
+00:06:15,560 --> 00:06:20,560
+But, to find these high performers, it
+
+177
+00:06:18,520 --> 00:06:23,040
+takes a lot of time. Even if you're
+
+178
+00:06:20,560 --> 00:06:24,919
+paying top dollars, which Netflix does,
+
+179
+00:06:23,040 --> 00:06:26,480
+it takes a lot of time to find those
+
+180
+00:06:24,919 --> 00:06:28,240
+diamond in the rough.
+
+181
+00:06:26,480 --> 00:06:30,919
+And it only worked for Netflix because
+
+182
+00:06:28,240 --> 00:06:33,120
+it literally had no competitors almost
+
+183
+00:06:30,919 --> 00:06:34,840
+back then. They were literally the only
+
+184
+00:06:33,120 --> 00:06:37,240
+legit streaming service out there. That
+
+185
+00:06:34,840 --> 00:06:40,160
+was before like HBO and everything. For
+
+186
+00:06:37,240 --> 00:06:42,080
+example, if you had competitors, it's
+
+187
+00:06:40,160 --> 00:06:44,640
+grow or die. If you had the choice to
+
+188
+00:06:42,080 --> 00:06:47,240
+make a profit of $200,000
+
+189
+00:06:44,640 --> 00:06:48,600
+or $150,000,
+
+190
+00:06:47,240 --> 00:06:51,080
+which one would you pick?
+
+191
+00:06:48,600 --> 00:06:53,440
+You'd probably pick the $200,000, right?
+
+192
+00:06:51,080 --> 00:06:55,760
+Even if the ROI is technically lower
+
+193
+00:06:53,440 --> 00:06:59,120
+because you had to spend 400k to earn
+
+194
+00:06:55,760 --> 00:07:00,600
+600k, which is a 1.5 extra turn. Instead
+
+195
+00:06:59,120 --> 00:07:02,600
+of the second example, where you had to
+
+196
+00:07:00,600 --> 00:07:04,760
+spend $150,000
+
+197
+00:07:02,600 --> 00:07:06,360
+and earn $300,000.
+
+198
+00:07:04,760 --> 00:07:08,440
+But, in a world of competition, if you
+
+199
+00:07:06,360 --> 00:07:10,440
+don't grow as fast as your peers, it
+
+200
+00:07:08,440 --> 00:07:12,760
+doesn't matter how well-written your app
+
+201
+00:07:10,440 --> 00:07:14,520
+is or how high your talent density is at
+
+202
+00:07:12,760 --> 00:07:16,200
+your company. When you're losing market
+
+203
+00:07:14,520 --> 00:07:18,200
+share to competitor who's hiring way
+
+204
+00:07:16,200 --> 00:07:19,800
+faster and expanding way faster than
+
+205
+00:07:18,200 --> 00:07:21,360
+you, it doesn't matter. You just want to
+
+206
+00:07:19,800 --> 00:07:23,320
+get stuff done, so you're going to hire
+
+207
+00:07:21,360 --> 00:07:24,960
+more people to get more output even
+
+208
+00:07:23,320 --> 00:07:27,440
+though it's less efficient because the
+
+209
+00:07:24,960 --> 00:07:28,640
+talent density is lower.
+
+210
+00:07:27,440 --> 00:07:31,200
+And that's exactly what happened during
+
+211
+00:07:28,640 --> 00:07:33,120
+COVID. Amazon and Meta doubled their
+
+212
+00:07:31,200 --> 00:07:34,680
+head count in 3 years because there was
+
+213
+00:07:33,120 --> 00:07:36,440
+suddenly so many more potential
+
+214
+00:07:34,680 --> 00:07:38,120
+customers. People were at home using
+
+215
+00:07:36,440 --> 00:07:40,600
+tech products, and to satisfy that
+
+216
+00:07:38,120 --> 00:07:42,120
+demand and exploit it, you got to hire
+
+217
+00:07:40,600 --> 00:07:44,080
+engineers to build all those features
+
+218
+00:07:42,120 --> 00:07:45,720
+and to scale. And if you don't, you lose
+
+219
+00:07:44,080 --> 00:07:47,480
+your market share. You know, they'll
+
+220
+00:07:45,720 --> 00:07:49,520
+either scroll on Facebook instead of
+
+221
+00:07:47,480 --> 00:07:52,560
+YouTube or they'll use Microsoft Azure
+
+222
+00:07:49,520 --> 00:07:55,000
+instead of AWS. So, then the hiring bar
+
+223
+00:07:52,560 --> 00:07:57,080
+lowers, as I said, and then shitty
+
+224
+00:07:55,000 --> 00:07:59,720
+talent comes in and then that's where I
+
+225
+00:07:57,080 --> 00:08:01,720
+come in, right? I'm an opportunist. All
+
+226
+00:07:59,720 --> 00:08:04,240
+I see is high pay, nice perks, and
+
+227
+00:08:01,720 --> 00:08:06,000
+seemingly easy job. Someone like me
+
+228
+00:08:04,240 --> 00:08:08,080
+who's in college will optimize for this
+
+229
+00:08:06,000 --> 00:08:10,520
+path to get into one of the companies
+
+230
+00:08:08,080 --> 00:08:12,800
+that are over hiring. Since I think that
+
+231
+00:08:10,520 --> 00:08:15,480
+the money they're paying is the highest
+
+232
+00:08:12,800 --> 00:08:18,160
+I can get with my limited skill set. I
+
+233
+00:08:15,480 --> 00:08:19,919
+am making the optimal move for myself,
+
+234
+00:08:18,160 --> 00:08:21,760
+given that I don't care about what I
+
+235
+00:08:19,919 --> 00:08:23,440
+work on. These are the people who would
+
+236
+00:08:21,760 --> 00:08:26,360
+have gone into investment banking in the
+
+237
+00:08:23,440 --> 00:08:28,600
+'90s, consulting in the 2000s, and now
+
+238
+00:08:26,360 --> 00:08:30,880
+in tech. They are very competent, very
+
+239
+00:08:28,600 --> 00:08:34,360
+rational, but most importantly, they
+
+240
+00:08:30,880 --> 00:08:36,719
+have zero passion for anything. They
+
+241
+00:08:34,360 --> 00:08:38,719
+optimize for something quantifiable
+
+242
+00:08:36,719 --> 00:08:41,039
+only, for money.
+
+243
+00:08:38,719 --> 00:08:43,400
+So, let me ask you a question. Would you
+
+244
+00:08:41,039 --> 00:08:44,560
+still be working in tech if it paid like
+
+245
+00:08:44,560 --> 00:08:49,400
+If your answer is no, then you are
+
+246
+00:08:46,920 --> 00:08:51,640
+probably this person. You are part of
+
+247
+00:08:49,400 --> 00:08:53,520
+the diluted talent pool. No shame in
+
+248
+00:08:51,640 --> 00:08:56,080
+that. You know, we might not start
+
+249
+00:08:53,520 --> 00:08:57,960
+companies, but we help billionaires grow
+
+250
+00:08:56,080 --> 00:09:00,480
+their existing companies, which is still
+
+251
+00:08:57,960 --> 00:09:01,720
+an important role. Now, when a company
+
+252
+00:09:00,480 --> 00:09:04,200
+is small,
+
+253
+00:09:01,720 --> 00:09:05,960
+the incentive structure is super simple.
+
+254
+00:09:04,200 --> 00:09:08,200
+For example, let's say it's only
+
+255
+00:09:05,960 --> 00:09:10,120
+founders. All founders of the company
+
+256
+00:09:08,200 --> 00:09:12,440
+want the company to succeed because
+
+257
+00:09:10,120 --> 00:09:13,720
+their future payout is literally tied to
+
+258
+00:09:12,440 --> 00:09:15,839
+the company's success. So,
+
+259
+00:09:13,720 --> 00:09:17,360
+decision-making is very easy. They're
+
+260
+00:09:15,839 --> 00:09:18,800
+already aligned in doing what's best for
+
+261
+00:09:17,360 --> 00:09:21,560
+the company because if the company
+
+262
+00:09:18,800 --> 00:09:23,320
+succeeds, they succeed. But as the
+
+263
+00:09:21,560 --> 00:09:25,120
+company gets bigger, though,
+
+264
+00:09:23,320 --> 00:09:26,320
+and it's filled with arbitrageurs who
+
+265
+00:09:25,120 --> 00:09:28,240
+are more motivated by their
+
+266
+00:09:26,320 --> 00:09:30,640
+self-interest, which again, which is
+
+267
+00:09:28,240 --> 00:09:33,040
+very rational and the optimal move to
+
+268
+00:09:30,640 --> 00:09:35,520
+make, what you get is misaligned
+
+269
+00:09:33,040 --> 00:09:37,920
+incentives. The work that you do will
+
+270
+00:09:35,520 --> 00:09:40,040
+most likely have very little to do with
+
+271
+00:09:37,920 --> 00:09:43,080
+whether a company succeeds or not. It's
+
+272
+00:09:40,040 --> 00:09:45,480
+like voting. Yes, you have an impact,
+
+273
+00:09:43,080 --> 00:09:47,000
+but if you did poorly at your job, it's
+
+274
+00:09:45,480 --> 00:09:48,040
+not like it will blow the whole thing
+
+275
+00:09:47,000 --> 00:09:50,960
+over.
+
+276
+00:09:48,040 --> 00:09:52,560
+For you to truly do a good job, to pick
+
+277
+00:09:50,960 --> 00:09:53,760
+truly important projects for the
+
+278
+00:09:52,560 --> 00:09:56,640
+company,
+
+279
+00:09:53,760 --> 00:09:58,600
+that might be a drop in the bucket for
+
+280
+00:09:56,640 --> 00:10:00,080
+the next earning calls, right? But that
+
+281
+00:09:58,600 --> 00:10:02,320
+will require you three times more
+
+282
+00:10:00,080 --> 00:10:05,040
+effort, which might yield you a I don't
+
+283
+00:10:02,320 --> 00:10:07,040
+know 15% bigger bonus, assuming that you
+
+284
+00:10:05,040 --> 00:10:09,080
+did a good year that year. So how is
+
+285
+00:10:07,040 --> 00:10:10,880
+that worth it? The incentive for the
+
+286
+00:10:09,080 --> 00:10:13,400
+employee would be to figure out how to
+
+287
+00:10:10,880 --> 00:10:15,400
+maximize your pay while minimizing your
+
+288
+00:10:13,400 --> 00:10:17,960
+effort, and not how to improve the
+
+289
+00:10:15,400 --> 00:10:20,200
+company. Sometimes these two things are
+
+290
+00:10:17,960 --> 00:10:21,560
+not aligned. For example, some workers
+
+291
+00:10:20,200 --> 00:10:23,920
+want to get promoted as fast as
+
+292
+00:10:21,560 --> 00:10:25,080
+possible. Maybe they even cut corners
+
+293
+00:10:23,920 --> 00:10:26,400
+doing so,
+
+294
+00:10:25,080 --> 00:10:28,680
+so that they can collect a bigger
+
+295
+00:10:26,400 --> 00:10:29,960
+paycheck. And then the work you choose
+
+296
+00:10:28,680 --> 00:10:31,760
+isn't always what's best for the
+
+297
+00:10:29,960 --> 00:10:34,560
+company, but it's the best for
+
+298
+00:10:31,760 --> 00:10:36,920
+promotions if you play the game right.
+
+299
+00:10:34,560 --> 00:10:39,280
+And that's a very valid strategy. Or
+
+300
+00:10:36,920 --> 00:10:41,160
+some workers might choose to cruise and
+
+301
+00:10:39,280 --> 00:10:42,960
+minimize the effort, stay at the same
+
+302
+00:10:41,160 --> 00:10:45,160
+level, and just collect paychecks.
+
+303
+00:10:42,960 --> 00:10:46,960
+That's also a valid strategy.
+
+304
+00:10:45,160 --> 00:10:48,839
+Now this isn't limited to individual
+
+305
+00:10:46,960 --> 00:10:51,080
+contributors. It's especially true for
+
+306
+00:10:48,839 --> 00:10:53,760
+managers and directors. You can
+
+307
+00:10:51,080 --> 00:10:55,320
+exaggerate how complicated your scope is
+
+308
+00:10:53,760 --> 00:10:58,120
+or how important your team is to the
+
+309
+00:10:55,320 --> 00:11:00,080
+company if you're good at lying.
+
+310
+00:10:58,120 --> 00:11:01,800
+And that protects your whole team. The
+
+311
+00:11:00,080 --> 00:11:04,120
+fact is that the company doesn't have a
+
+312
+00:11:01,800 --> 00:11:06,800
+full picture because the company's just
+
+313
+00:11:04,120 --> 00:11:08,520
+too big. So they rely on proxies like
+
+314
+00:11:06,800 --> 00:11:11,160
+performance review, team size,
+
+315
+00:11:08,520 --> 00:11:13,360
+organizational structure, peer feedback,
+
+316
+00:11:11,160 --> 00:11:16,120
+documentation about who got credit for
+
+317
+00:11:13,360 --> 00:11:18,839
+what work. Every one of these measurable
+
+318
+00:11:16,120 --> 00:11:21,000
+proxies can be cheated though. And
+
+319
+00:11:18,839 --> 00:11:23,839
+employees will find the path of least
+
+320
+00:11:21,000 --> 00:11:25,680
+resistance to cheat them and to get what
+
+321
+00:11:23,839 --> 00:11:28,480
+they want. Whether that's keeping their
+
+322
+00:11:25,680 --> 00:11:31,000
+job or getting a promo or a raise or
+
+323
+00:11:28,480 --> 00:11:33,160
+making their team big or
+
+324
+00:11:31,000 --> 00:11:35,120
+or taking on projects that seem a lot
+
+325
+00:11:33,160 --> 00:11:36,880
+more important so that you can get a
+
+326
+00:11:35,120 --> 00:11:39,200
+bigger paycheck.
+
+327
+00:11:36,880 --> 00:11:40,960
+The path of least resistance is rarely
+
+328
+00:11:39,200 --> 00:11:43,520
+the path that helps the company the
+
+329
+00:11:40,960 --> 00:11:45,120
+most, unfortunately. If everyone was a
+
+330
+00:11:43,520 --> 00:11:46,640
+high performer,
+
+331
+00:11:45,120 --> 00:11:49,200
+actually not even high performer, a
+
+332
+00:11:46,640 --> 00:11:51,040
+principal performer, and worked like a
+
+333
+00:11:49,200 --> 00:11:52,600
+hive mind, and every employee is
+
+334
+00:11:51,040 --> 00:11:55,200
+aligned, companies wouldn't even need to
+
+335
+00:11:52,600 --> 00:11:56,920
+fire people or have performance reviews.
+
+336
+00:11:55,200 --> 00:11:59,120
+These things that bloat companies like
+
+337
+00:11:56,920 --> 00:12:01,160
+bureaucracy, goal setting, performance
+
+338
+00:11:59,120 --> 00:12:03,480
+evaluation, bonuses
+
+339
+00:12:01,160 --> 00:12:06,120
+are all necessary to steer the company
+
+340
+00:12:03,480 --> 00:12:08,240
+slightly more in the right direction,
+
+341
+00:12:06,120 --> 00:12:09,480
+even though that these processes slows
+
+342
+00:12:08,240 --> 00:12:11,760
+things down.
+
+343
+00:12:09,480 --> 00:12:14,480
+You rather be going slow than going
+
+344
+00:12:11,760 --> 00:12:16,440
+backwards, right?
+
+345
+00:12:14,480 --> 00:12:19,040
+So again, employees are completely
+
+346
+00:12:16,440 --> 00:12:22,120
+rational in performing at work in a way
+
+347
+00:12:19,040 --> 00:12:24,240
+that optimizes their payout instead of
+
+348
+00:12:22,120 --> 00:12:26,600
+the company's interest. And the company
+
+349
+00:12:24,240 --> 00:12:28,640
+is also completely rational in setting
+
+350
+00:12:26,600 --> 00:12:29,920
+up all these processes and management
+
+351
+00:12:28,640 --> 00:12:32,440
+layers.
+
+352
+00:12:29,920 --> 00:12:34,800
+And finally, you press the reset button,
+
+353
+00:12:32,440 --> 00:12:37,280
+and you start shaving off the diseased,
+
+354
+00:12:34,800 --> 00:12:38,960
+right? Those are layoffs. The teams that
+
+355
+00:12:37,280 --> 00:12:40,320
+are completely useless, the low
+
+356
+00:12:38,960 --> 00:12:42,200
+performers, and the leeches, we're
+
+357
+00:12:40,320 --> 00:12:43,880
+trying to get rid of that. You can't be
+
+358
+00:12:42,200 --> 00:12:46,200
+surgical about it, so you just have to
+
+359
+00:12:43,880 --> 00:12:48,160
+do a broad stroke. It's like if a city
+
+360
+00:12:46,200 --> 00:12:49,680
+is infected with zombies,
+
+361
+00:12:48,160 --> 00:12:51,600
+even if there's some people living in
+
+362
+00:12:49,680 --> 00:12:54,320
+there, unfortunately, they're just going
+
+363
+00:12:51,600 --> 00:12:57,080
+to bomb the whole place. That's
+
+364
+00:12:54,320 --> 00:12:58,360
+that's the safest thing to do.
+
+365
+00:12:57,080 --> 00:13:00,880
+All right, so I guess what I'm trying to
+
+366
+00:12:58,360 --> 00:13:03,080
+say is there's no bad actor in this
+
+367
+00:13:00,880 --> 00:13:04,880
+whole layoff saga.
+
+368
+00:13:03,080 --> 00:13:06,680
+Everyone played their cards exactly
+
+369
+00:13:04,880 --> 00:13:08,480
+right. I guess if you're concerned about
+
+370
+00:13:06,680 --> 00:13:10,920
+the layoffs, there's a few things you
+
+371
+00:13:08,480 --> 00:13:12,680
+can do to avoid the bomb.
+
+372
+00:13:10,920 --> 00:13:14,680
+There's two types of adjustments you can
+
+373
+00:13:12,680 --> 00:13:17,040
+make. You can do both.
+
+374
+00:13:14,680 --> 00:13:19,440
+But the left side, I call them the
+
+375
+00:13:17,040 --> 00:13:22,120
+principal macro adjustments. These are
+
+376
+00:13:19,440 --> 00:13:23,920
+the adjustments that make your true ROI,
+
+377
+00:13:22,120 --> 00:13:25,720
+your return on investment as an
+
+378
+00:13:23,920 --> 00:13:28,240
+employee, higher.
+
+379
+00:13:25,720 --> 00:13:30,320
+You can do that by getting paid less. If
+
+380
+00:13:28,240 --> 00:13:32,760
+you're not overpriced, people are less
+
+381
+00:13:30,320 --> 00:13:34,520
+likely going to look at you to fire you.
+
+382
+00:13:32,760 --> 00:13:36,520
+The most overpriced employees are
+
+383
+00:13:34,520 --> 00:13:38,520
+usually the ones who force themselves
+
+384
+00:13:36,520 --> 00:13:40,640
+into a promo, even though they're not
+
+385
+00:13:38,520 --> 00:13:43,280
+executing at that level. They're usually
+
+386
+00:13:40,640 --> 00:13:45,040
+nervous, burnt out all the time,
+
+387
+00:13:43,280 --> 00:13:47,280
+and they usually optimize on promos
+
+388
+00:13:45,040 --> 00:13:48,760
+rather than developing their skills.
+
+389
+00:13:47,280 --> 00:13:51,080
+So, think twice before you ask for a
+
+390
+00:13:48,760 --> 00:13:53,240
+promotion. You can also go to a company
+
+391
+00:13:51,080 --> 00:13:55,320
+that pays less, and more likely than not
+
+392
+00:13:53,240 --> 00:13:57,080
+you'd be very high performer there since
+
+393
+00:13:55,320 --> 00:13:58,480
+the pool isn't as competitive and you'll
+
+394
+00:13:57,080 --> 00:14:01,160
+survive.
+
+395
+00:13:58,480 --> 00:14:02,440
+So, next is when you're selecting a
+
+396
+00:14:01,160 --> 00:14:03,840
+team,
+
+397
+00:14:02,440 --> 00:14:05,480
+make sure you choose a team that's a
+
+398
+00:14:03,840 --> 00:14:09,280
+high priority for the company. For
+
+399
+00:14:05,480 --> 00:14:11,320
+example, ads, AWS, monetization, any of
+
+400
+00:14:09,280 --> 00:14:13,320
+those kind of teams, they're not likely
+
+401
+00:14:11,320 --> 00:14:15,520
+going anywhere because it's obvious that
+
+402
+00:14:13,320 --> 00:14:18,160
+they make profit for the company. Even
+
+403
+00:14:15,520 --> 00:14:21,480
+if you're extremely good or you're very,
+
+404
+00:14:18,160 --> 00:14:23,560
+very impactful within your team,
+
+405
+00:14:21,480 --> 00:14:24,760
+but if your team is experimental and
+
+406
+00:14:23,560 --> 00:14:27,360
+doesn't actually make money for the
+
+407
+00:14:24,760 --> 00:14:30,000
+company, your true ROI might still be
+
+408
+00:14:27,360 --> 00:14:31,560
+low. It has nothing to do with you, and
+
+409
+00:14:30,000 --> 00:14:33,720
+you're very, very competent, and you
+
+410
+00:14:31,560 --> 00:14:35,720
+deliver on all the work, but the work is
+
+411
+00:14:33,720 --> 00:14:38,240
+just not that useful for the company.
+
+412
+00:14:35,720 --> 00:14:39,839
+So, technically, your true ROI is still
+
+413
+00:14:38,240 --> 00:14:40,720
+pretty low.
+
+414
+00:14:39,839 --> 00:14:43,600
+Okay.
+
+415
+00:14:40,720 --> 00:14:45,760
+So, the downside of choosing those high
+
+416
+00:14:43,600 --> 00:14:48,120
+ROI teams, though, is that they're
+
+417
+00:14:45,760 --> 00:14:50,160
+usually very well established and
+
+418
+00:14:48,120 --> 00:14:51,200
+they're not fun.
+
+419
+00:14:50,160 --> 00:14:52,880
+And because they're very well
+
+420
+00:14:51,200 --> 00:14:56,000
+established, the direction that they
+
+421
+00:14:52,880 --> 00:14:58,720
+need to go is very clear. So, the leads
+
+422
+00:14:56,000 --> 00:15:00,400
+know exactly how much juice to juice out
+
+423
+00:14:58,720 --> 00:15:02,000
+of you. That's why whenever you join a
+
+424
+00:15:00,400 --> 00:15:03,880
+new company, you always hear like, "Oh
+
+425
+00:15:02,000 --> 00:15:05,760
+man, don't join the monetization team.
+
+426
+00:15:03,880 --> 00:15:07,600
+Don't join the cloud computing team. Oh
+
+427
+00:15:05,760 --> 00:15:09,880
+my god, the work is so hard over there."
+
+428
+00:15:07,600 --> 00:15:11,080
+Or like they make you work 24/7 and
+
+429
+00:15:09,880 --> 00:15:12,720
+stuff like that.
+
+430
+00:15:11,080 --> 00:15:15,000
+That's probably why because they have a
+
+431
+00:15:12,720 --> 00:15:16,520
+very clear direction on where to go, and
+
+432
+00:15:15,000 --> 00:15:18,040
+they know exactly how to extract that
+
+433
+00:15:16,520 --> 00:15:20,600
+out of you.
+
+434
+00:15:18,040 --> 00:15:22,760
+So, the last one is
+
+435
+00:15:20,600 --> 00:15:25,360
+increase your impact. Be someone who can
+
+436
+00:15:22,760 --> 00:15:27,040
+identify what is impactful work and then
+
+437
+00:15:25,360 --> 00:15:29,360
+do that work.
+
+438
+00:15:27,040 --> 00:15:31,240
+I also added use AI right now because
+
+439
+00:15:29,360 --> 00:15:33,480
+the only way to have an outsize impact
+
+440
+00:15:31,240 --> 00:15:35,480
+is to increase your output. And
+
+441
+00:15:33,480 --> 00:15:37,960
+currently, if you're not using AI to
+
+442
+00:15:35,480 --> 00:15:40,200
+write code or to do your job, you might
+
+443
+00:15:37,960 --> 00:15:42,360
+get out-competed by someone who does.
+
+444
+00:15:40,200 --> 00:15:44,040
+It's similar to if calculators existed,
+
+445
+00:15:42,360 --> 00:15:47,720
+but you're still calculating things by
+
+446
+00:15:44,040 --> 00:15:47,720
+hand. It just makes no sense.
+
+447
+00:15:47,760 --> 00:15:52,040
+All right. So, then on the other side of
+
+448
+00:15:49,680 --> 00:15:54,000
+this spectrum, there are tactical
+
+449
+00:15:52,040 --> 00:15:55,600
+micro-adjustments.
+
+450
+00:15:54,000 --> 00:15:57,600
+These don't actually change anything
+
+451
+00:15:55,600 --> 00:16:00,440
+about you. You're not getting any
+
+452
+00:15:57,600 --> 00:16:02,520
+better, and your ROI stays the same.
+
+453
+00:16:00,440 --> 00:16:04,720
+But, you can make these optical
+
+454
+00:16:02,520 --> 00:16:06,680
+illusions to make you seem better than
+
+455
+00:16:04,720 --> 00:16:07,920
+you are. And these are a lot easier to
+
+456
+00:16:06,680 --> 00:16:09,920
+pull off.
+
+457
+00:16:07,920 --> 00:16:11,800
+So, the first one is choose a manager
+
+458
+00:16:09,920 --> 00:16:13,800
+that likes you. In the end, the company
+
+459
+00:16:11,800 --> 00:16:16,160
+needs input to figure out who to lay
+
+460
+00:16:13,800 --> 00:16:17,880
+off, right? Figure out where those
+
+461
+00:16:16,160 --> 00:16:19,200
+inputs come from. Usually, it's from
+
+462
+00:16:17,880 --> 00:16:21,680
+your manager.
+
+463
+00:16:19,200 --> 00:16:23,480
+Unless they're getting fired. But, make
+
+464
+00:16:21,680 --> 00:16:25,360
+sure that you're on the good side of the
+
+465
+00:16:23,480 --> 00:16:27,800
+people who make these decisions or who
+
+466
+00:16:25,360 --> 00:16:30,520
+give input into the company to figure
+
+467
+00:16:27,800 --> 00:16:31,800
+out who to fire. Next, when you work on
+
+468
+00:16:30,520 --> 00:16:33,520
+projects, make sure you
+
+469
+00:16:31,800 --> 00:16:35,920
+over-communicate.
+
+470
+00:16:33,520 --> 00:16:38,160
+And also over-exaggerate how difficult
+
+471
+00:16:35,920 --> 00:16:40,560
+your projects are and how impactful your
+
+472
+00:16:38,160 --> 00:16:41,720
+projects are. Make a lot of noise. Just
+
+473
+00:16:40,560 --> 00:16:43,720
+be seen.
+
+474
+00:16:41,720 --> 00:16:45,000
+That creates an illusion that you are
+
+475
+00:16:43,720 --> 00:16:46,520
+valuable.
+
+476
+00:16:45,000 --> 00:16:48,240
+I personally hate that, but that's just
+
+477
+00:16:46,520 --> 00:16:50,880
+how the world works. And if everyone
+
+478
+00:16:48,240 --> 00:16:52,880
+else does it, you have to do it, too.
+
+479
+00:16:50,880 --> 00:16:55,680
+Like, if the tree falls down, but no
+
+480
+00:16:52,880 --> 00:16:58,240
+one's there to hear it. Did it really
+
+481
+00:16:55,680 --> 00:16:59,760
+fall down or or something like that? You
+
+482
+00:16:58,240 --> 00:17:01,880
+know what I mean.
+
+483
+00:16:59,760 --> 00:17:04,319
+And then the last one
+
+484
+00:17:01,880 --> 00:17:05,720
+is try to figure out what vanity metrics
+
+485
+00:17:04,319 --> 00:17:08,199
+are important
+
+486
+00:17:05,720 --> 00:17:09,800
+for your company. Like, a toy example,
+
+487
+00:17:08,199 --> 00:17:12,000
+like let's say there's a shitty
+
+488
+00:17:09,800 --> 00:17:13,720
+fictional company. They might look at
+
+489
+00:17:12,000 --> 00:17:15,400
+the number of lines of code you've
+
+490
+00:17:13,720 --> 00:17:17,560
+written or the number of pull requests
+
+491
+00:17:15,400 --> 00:17:20,199
+you merge. And they'll use that as a
+
+492
+00:17:17,560 --> 00:17:22,760
+proxy of how productive you are.
+
+493
+00:17:20,199 --> 00:17:24,760
+And if you know that, optimize for that.
+
+494
+00:17:22,760 --> 00:17:27,199
+Create smaller pull requests, write
+
+495
+00:17:24,760 --> 00:17:28,480
+bloated code. Currently at my company, I
+
+496
+00:17:27,199 --> 00:17:31,160
+have a feeling they're looking at how
+
+497
+00:17:28,480 --> 00:17:33,520
+much you use AI because most company
+
+498
+00:17:31,160 --> 00:17:35,960
+believes that if you're using AI, you're
+
+499
+00:17:33,520 --> 00:17:37,280
+way more productive. So, if you don't
+
+500
+00:17:35,960 --> 00:17:39,280
+jump on the trend, you're going to fall
+
+501
+00:17:37,280 --> 00:17:40,880
+behind. So, they're probably looking at
+
+502
+00:17:39,280 --> 00:17:42,680
+your AI usage.
+
+503
+00:17:40,880 --> 00:17:44,800
+So, what you can do is every morning
+
+504
+00:17:42,680 --> 00:17:46,880
+just ask a lot of questions to AI even
+
+505
+00:17:44,800 --> 00:17:49,280
+if you don't have any questions, or just
+
+506
+00:17:46,880 --> 00:17:51,480
+write a lot of code using AI.
+
+507
+00:17:49,280 --> 00:17:53,880
+Okay, so here's the catch.
+
+508
+00:17:51,480 --> 00:17:56,960
+When too many people start making these
+
+509
+00:17:53,880 --> 00:17:59,600
+tactical micro-adjustments, well, that's
+
+510
+00:17:56,960 --> 00:18:01,880
+actually a big reason why there's
+
+511
+00:17:59,600 --> 00:18:04,160
+layoffs. It's because people optimize
+
+512
+00:18:01,880 --> 00:18:06,440
+too much on the optics and about how to
+
+513
+00:18:04,160 --> 00:18:08,520
+survive another year at the company
+
+514
+00:18:06,440 --> 00:18:10,840
+instead of actually doing the real work
+
+515
+00:18:08,520 --> 00:18:14,400
+that makes you better and increase your
+
+516
+00:18:10,840 --> 00:18:16,600
+output like on the macro-adjustments.
+
+517
+00:18:14,400 --> 00:18:20,200
+And that's why companies can't tell
+
+518
+00:18:16,600 --> 00:18:22,600
+apart someone who truly has a high ROI
+
+519
+00:18:20,200 --> 00:18:25,040
+versus someone who is creating all these
+
+520
+00:18:22,600 --> 00:18:27,240
+smokes and mirrors to make them seem
+
+521
+00:18:25,040 --> 00:18:29,960
+like they are high ROI.
+
+522
+00:18:27,240 --> 00:18:32,440
+And that is why they need layoffs
+
+523
+00:18:29,960 --> 00:18:34,200
+so that they can reset.
+
+524
+00:18:32,440 --> 00:18:36,640
+All right, that's pretty much what I'll
+
+525
+00:18:34,200 --> 00:18:39,000
+talk about today and I'll see you next
+
+526
+00:18:36,640 --> 00:18:39,000
+time.
